@@ -1,0 +1,82 @@
+******************Starting Simulation********************
+Station 0: In-Connection set to pipe 2
+Station 0: Out-Connection set to pipe 0
+Station 0: workload set to 2
+Station 1: In-Connection set to pipe 0
+Station 1: Out-Connection set to pipe 1
+Station 1: workload set to 3
+Station 2: In-Connection set to pipe 1
+Station 2: Out-Connection set to pipe 2
+Station 2: workload set to 4
+Station 1: granted access to pipe 0
+Station 1: granted access to pipe 1
+Station 1: successfully flows on pipe 0
+Station 1: successfully flows on pipe 1
+Station 0: granted access to pipe 2
+Station 0: released access to pipe 2
+Station 1: released access to pipe 1
+Station 1: released access to pipe 0
+Station 2: granted access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: successfully flows on pipe 1
+Station 2: successfully flows on pipe 2
+Station 1: granted access to pipe 0
+Station 1: released access to pipe 0
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+Station 0: granted access to pipe 2
+Station 0: granted access to pipe 0
+Station 0: successfully flows on pipe 2
+Station 0: successfully flows on pipe 0
+Station 2: granted access to pipe 1
+Station 2: released access to pipe 1
+Station 2: granted access to pipe 1
+Station 2: released access to pipe 1
+Station 2: granted access to pipe 1
+Station 2: released access to pipe 1
+Station 0: released access to pipe 0
+Station 0: released access to pipe 2
+Station 0: granted access to pipe 2
+Station 0: granted access to pipe 0
+Station 0: successfully flows on pipe 2
+Station 0: successfully flows on pipe 0
+Station 2: granted access to pipe 1
+Station 2: released access to pipe 1
+Station 0: released access to pipe 0
+Station 0: released access to pipe 2
+Station 2: granted access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: successfully flows on pipe 1
+Station 2: successfully flows on pipe 2
+Station 1: granted access to pipe 0
+Station 1: released access to pipe 0
+* * Station 0: Workload successfully completed. * *
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+Station 1: granted access to pipe 0
+Station 1: granted access to pipe 1
+Station 1: successfully flows on pipe 0
+Station 1: successfully flows on pipe 1
+Station 1: released access to pipe 1
+Station 1: released access to pipe 0
+Station 1: granted access to pipe 0
+Station 1: granted access to pipe 1
+Station 1: successfully flows on pipe 0
+Station 1: successfully flows on pipe 1
+Station 1: released access to pipe 1
+Station 1: released access to pipe 0
+Station 2: granted access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: successfully flows on pipe 1
+Station 2: successfully flows on pipe 2
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+* * Station 1: Workload successfully completed. * *
+Station 2: granted access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: successfully flows on pipe 1
+Station 2: successfully flows on pipe 2
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+* * Station 2: Workload successfully completed. * *
+*************Ending Simulation******************
